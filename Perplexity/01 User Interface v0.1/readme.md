@@ -3,6 +3,10 @@
 ## Project Description
 Perplexity Chat is an interactive web application that enables interactions with Perplexity AI language models, offering a flexible and customizable interface for conversation.
 
+![Application home screen](assets/perp_chat_telaConsulta.png)
+
+![application home screen with query](assets/perp_chat_telaConsulta2.png)
+
 ## 🚀 Technologies Used
 - **Backend**: Python, Flask
 - **Frontend**:
@@ -58,6 +62,8 @@ The `config` command allows adjusting:
 3. Text generation parameters
 4. Search filters
 5. Citation settings
+
+![Screen setup](assets/perp_chat_settings.png)
 
 ## ⚙️ Available Models
 - llama-3.1-sonar-small-128k-chat
